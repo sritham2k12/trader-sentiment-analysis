@@ -37,7 +37,7 @@ trader-sentiment-analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/trader-sentiment-analysis.git
+git clone https://github.com/https://github.com/sritham2k12/trader-sentiment-analysis.git
 cd trader-sentiment-analysis
 ```
 
